@@ -1,0 +1,51 @@
+/* Page background */
+body {
+    background-color: #50677c;
+    font-family: Arial, sans-serif;
+    padding: 30px;
+  }
+  
+  /* General buttons */
+  button {
+    padding: 10px 20px;
+    background-color: #3fa342;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 1s;
+  }
+  
+  /* Hover effect for buttons */
+  button:hover {
+    background-color: #64850a;
+  }
+  
+  /* Secret message styling */
+  .secret-message {
+    display: Brace Yourself for an Epic Adventure!;
+    margin-top: 20px;
+    font-weight: bold;
+    color: rgb(165, 91, 132);
+  }
+  
+  /* Form styling */
+  form {
+    margin-top: 40px;
+    max-width: 300px;
+  }
+  
+  form input {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    margin: 10px 0;
+    box-sizing: border-box;
+  }
+  
+  #formFeedback {
+    margin-top: 10px;
+    color: blue;
+  }
+  
